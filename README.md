@@ -15,7 +15,8 @@ An interactive chatbot that analyzes movie reviews and classifies them as **Posi
 
 ## 📸 Screenshot
 
-![App Screenshot](https://huggingface.co/spaces/drashti3001/IMDB_Analyser/resolve/main/demo.png) <!-- Optional: replace with your actual screenshot path -->
+![![image](https://github.com/user-attachments/assets/9da7849b-5a1a-4b9f-b265-51b14373d45e)
+](https://huggingface.co/spaces/drashti3001/IMDB_Analyser/resolve/main/demo.png) <!-- Optional: replace with your actual screenshot path -->
 
 ---
 
